@@ -21,20 +21,6 @@ The dataset used in this project is the Tweets dataset, containing tweets relate
 3. Place the dataset (`Tweets.csv`) in the same directory as the script.
 4. Run the script (`sentiment_analysis.py`) to perform sentiment analysis and generate visualizations.
 
-## Visual Outputs
-
-### Sentiment Distribution in US Airline Tweets
-
-![Sentiment Distribution](https://github.com/YourUsername/YourRepositoryName/assets/sentiment_distribution.png)
-
-### Distribution of Sentiment Scores
-
-![Sentiment Scores Distribution](https://github.com/YourUsername/YourRepositoryName/assets/sentiment_scores_distribution.png)
-
-### Sentiment Scores by Airline
-
-![Sentiment Scores by Airline](https://github.com/YourUsername/YourRepositoryName/assets/sentiment_scores_by_airline.png)
-
 ## Code
 
 ```python
